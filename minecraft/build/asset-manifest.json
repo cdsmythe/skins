@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/minecraftskins/static/css/main.41653c8c.chunk.css",
+    "main.js": "/minecraftskins/static/js/main.aca7226a.chunk.js",
+    "main.js.map": "/minecraftskins/static/js/main.aca7226a.chunk.js.map",
+    "runtime-main.js": "/minecraftskins/static/js/runtime-main.38a3d76b.js",
+    "runtime-main.js.map": "/minecraftskins/static/js/runtime-main.38a3d76b.js.map",
+    "static/css/2.d9ad5f5c.chunk.css": "/minecraftskins/static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.cfd3ebca.chunk.js": "/minecraftskins/static/js/2.cfd3ebca.chunk.js",
+    "static/js/2.cfd3ebca.chunk.js.map": "/minecraftskins/static/js/2.cfd3ebca.chunk.js.map",
+    "index.html": "/minecraftskins/index.html",
+    "precache-manifest.e12f8493b12fdcc38fa206b56369a47d.js": "/minecraftskins/precache-manifest.e12f8493b12fdcc38fa206b56369a47d.js",
+    "service-worker.js": "/minecraftskins/service-worker.js",
+    "static/css/2.d9ad5f5c.chunk.css.map": "/minecraftskins/static/css/2.d9ad5f5c.chunk.css.map",
+    "static/css/main.41653c8c.chunk.css.map": "/minecraftskins/static/css/main.41653c8c.chunk.css.map",
+    "static/js/2.cfd3ebca.chunk.js.LICENSE.txt": "/minecraftskins/static/js/2.cfd3ebca.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.38a3d76b.js",
+    "static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.cfd3ebca.chunk.js",
+    "static/css/main.41653c8c.chunk.css",
+    "static/js/main.aca7226a.chunk.js"
+  ]
+}
